@@ -11,4 +11,3 @@ They were designed to make the react ecosystem more simple but there are a few c
 3. Hooks can ass complexity if you are unaware of what is going on
 4. Hooks are only available in the latest version of React, so if you are on older versions hooks would not work
 5. Classes are still valid ways of writing components and always will be
-
